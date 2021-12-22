@@ -62,11 +62,17 @@ I create this repository as extended version of [Grokking the Object Oriented De
     <a href="object-oriented-design-case-studies/design-cricinfo.md"><b>Design Cricinfo</b></a>
     <br />
     <a href="object-oriented-design-case-studies/design-facebook.md"><b>Design Facebook - a Social Network</b></a>
+        <br />
     <a> Design: Troubleshooting a Buggy Application </a>
+        <br />
     <a> Design: Designing a Meal Delivery Application </a>
+        <br />
 <a> Design: Designing a Calendar Application </a>
+        <br />
 <a> Design: Designing a Streaming Data Processing Pipeline </a>
+        <br />
 <a> Design: Designing a Trending Feature </a>
+        <br />
 <a> Design: Designing an Air Traffic Control System </a>
 </p>
 <hr />
